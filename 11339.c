@@ -1,6 +1,3 @@
-//https://www.acmicpc.net/problem/11399
-// 그리디 방법을 이용한 줄서기(ATM) 문제
-
 #include <stdio.h>
 int swap(int*, int);
 
